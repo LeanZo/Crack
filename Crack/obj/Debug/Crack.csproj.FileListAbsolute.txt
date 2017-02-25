@@ -1,0 +1,9 @@
+C:\Users\LeanZo\Documents\GitHub\Crack\Crack\bin\Debug\Crack.exe.config
+C:\Users\LeanZo\Documents\GitHub\Crack\Crack\bin\Debug\Crack.exe
+C:\Users\LeanZo\Documents\GitHub\Crack\Crack\bin\Debug\Crack.pdb
+C:\Users\LeanZo\Documents\GitHub\Crack\Crack\obj\Debug\Crack.csprojResolveAssemblyReference.cache
+C:\Users\LeanZo\Documents\GitHub\Crack\Crack\obj\Debug\Crack.Form1.resources
+C:\Users\LeanZo\Documents\GitHub\Crack\Crack\obj\Debug\Crack.Properties.Resources.resources
+C:\Users\LeanZo\Documents\GitHub\Crack\Crack\obj\Debug\Crack.csproj.GenerateResource.Cache
+C:\Users\LeanZo\Documents\GitHub\Crack\Crack\obj\Debug\Crack.exe
+C:\Users\LeanZo\Documents\GitHub\Crack\Crack\obj\Debug\Crack.pdb
